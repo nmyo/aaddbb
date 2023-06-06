@@ -13,6 +13,8 @@
 # 可选参数"color=xxx" 当使用 icon 字段时，可传入 color 字段控制图标颜色，字段内容为颜色的 HEX 编码。如：color=#007aff
 [Panel]
 Sub_info = script-name=Sub_info, update-interval=600
+Sub_info = script-name=Sub_info2, update-interval=600
 
 [Script]
 Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Ftap.dygames.uk%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D2bb2360b3fa7798f6dbc18048d328ee1&reset_day=19&expire=2023-06-19&title=TapFog&icon=externaldrive.fill.badge.icloud=#0
+Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fdy.xftld.xyz%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Db44a26fcf7a096baaf64b8eab4179d45&reset_day=6&expire=2023-07-06&title=XFLTD&icon=externaldrive.fill.badge.icloud=#0
