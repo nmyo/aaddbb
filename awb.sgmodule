@@ -16,5 +16,5 @@ Sub_info = script-name=Sub_info, update-interval=3600
 Sub_info = script-name=Sub_info2, update-interval=3600
 
 [Script]
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Ffront.fishport.cloud%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3De1ee91bf34ec518df3ece359d98c59e2%26node%3D1&reset_day=14&expire=2023-09-14&title=薯条&icon=externaldrive.fill.badge.icloud=#0
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fsawako.chipsfuck.fish%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3De1ee91bf34ec518df3ece359d98c59e2%26node%3D1&reset_day=14&expire=2023-09-14&title=薯条&icon=externaldrive.fill.badge.icloud=#0
 Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fdy.xftld.xyz%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Db44a26fcf7a096baaf64b8eab4179d45&reset_day=6&expire=2023-07-06&title=XFLTD&icon=externaldrive.fill.badge.icloud=#0
