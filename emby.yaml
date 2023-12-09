@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,emby.fishchips.io
   - DOMAIN-SUFFIX,cc.semby.ink
   - DOMAIN-SUFFIX,go.reddust.link
-  - DOMAIN-SUFFIX,vip.reddust.link:443
+  - DOMAIN-SUFFIX,vip.reddust.link
   - DOMAIN-SUFFIX,media.nijigem.by
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,789.123456.al
